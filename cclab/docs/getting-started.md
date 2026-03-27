@@ -163,7 +163,7 @@ chain-clarity-lab/
 - [Blockchain & Quantum](https://beacons.ai/chainclarity)
 
 📷 **Instagram:** [@chainclar](https://instagram.com/chainclar)  
-🌐 **Website:** [chainclarify.netlify.app](https://beacons.ai/chainclarity)  
+🌐 **Website:** [chainclarify](https://beacons.ai/chainclarity)  
 📧 **Email:** n.satoshi@gmx.com
 
 ---
