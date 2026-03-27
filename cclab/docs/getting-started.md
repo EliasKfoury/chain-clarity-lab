@@ -1,6 +1,6 @@
 # Getting Started — Chain Clarity Lab
 
-**Chain Clarity Lab** | @chainclar | [chainclarify.netlify.app](https://chainclarify.netlify.app)
+**Chain Clarity Lab** | @chainclar | [chainclarify](https://beacons.ai/chainclarity)
 
 ---
 
@@ -156,14 +156,14 @@ chain-clarity-lab/
 ## Learn More
 
 📚 **Chain Clarity Ebook Series**
-- [Decoding The Digital Currency Revolution](https://chainclarify.netlify.app)
-- [Blockchain & Supply Chain](https://chainclarify.netlify.app)
-- [Blockchain Finance & AI Finance](https://chainclarify.netlify.app)
-- [Healthcare & Blockchain](https://chainclarify.netlify.app)
-- [Blockchain & Quantum](https://chainclarify.netlify.app)
+- [Decoding The Digital Currency Revolution](https://beacons.ai/chainclarity)
+- [Blockchain & Supply Chain](https://beacons.ai/chainclarity)
+- [Blockchain Finance & AI Finance](https://beacons.ai/chainclarity)
+- [Healthcare & Blockchain](https://beacons.ai/chainclarity)
+- [Blockchain & Quantum](https://beacons.ai/chainclarity)
 
 📷 **Instagram:** [@chainclar](https://instagram.com/chainclar)  
-🌐 **Website:** [chainclarify.netlify.app](https://chainclarify.netlify.app)  
+🌐 **Website:** [chainclarify.netlify.app](https://beacons.ai/chainclarity)  
 📧 **Email:** n.satoshi@gmx.com
 
 ---
