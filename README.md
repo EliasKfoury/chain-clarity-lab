@@ -44,12 +44,12 @@ All research in this lab is connected to the **Chain Clarity Blockchain in Busin
 
 | # | Title | Focus |
 |---|-------|-------|
-| 01 | [Decoding The Digital Currency Revolution (FREE)](#) | Bitcoin, Ethereum, DeFi, Web3 |
-| 02 | [Charity & Blockchain](#) | NGOs, transparency, smart donations |
-| 03 | [Blockchain & Supply Chain](#) | Traceability, eBL, Walmart/Maersk |
-| 04 | [Blockchain Finance & AI Finance](#) | DeFi, CBDCs, tokenization, AI trading |
-| 05 | [Healthcare & Blockchain](#) | EHR, drug supply, clinical trials |
-| 06 | [Blockchain & Quantum](#) | PQC, NIST 2024, quantum-safe crypto |
+| 01 | [Decoding The Digital Currency Revolution (FREE)](https://beacons.ai/chainclarity) | Bitcoin, Ethereum, DeFi, Web3 |
+| 02 | [Charity & Blockchain](https://beacons.ai/chainclarity) | NGOs, transparency, smart donations |
+| 03 | [Blockchain & Supply Chain](https://beacons.ai/chainclarity) | Traceability, eBL, Walmart/Maersk |
+| 04 | [Blockchain Finance & AI Finance](https://beacons.ai/chainclarity) | DeFi, CBDCs, tokenization, AI trading |
+| 05 | [Healthcare & Blockchain](https://beacons.ai/chainclarity) | EHR, drug supply, clinical trials |
+| 06 | [Blockchain & Quantum](https://beacons.ai/chainclarity) | PQC, NIST 2024, quantum-safe crypto |
 
 📖 **Get the full series** → [chainclarify](https://beacons.ai/chainclarity)
 
